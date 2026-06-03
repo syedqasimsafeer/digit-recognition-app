@@ -18,6 +18,10 @@ It includes:
 - Wrong prediction analysis
 - Streamlit app deployment
 
+## Deployment
+
+The project includes a Streamlit web app. The link for the deployment is:
+https://digit-recognition-app-2s.streamlit.app/
 ## Dataset
 
 The project uses the MNIST handwritten digit dataset.
